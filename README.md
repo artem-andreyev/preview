@@ -1,1 +1,1 @@
-Events and their functions
+Project about events and their functions
